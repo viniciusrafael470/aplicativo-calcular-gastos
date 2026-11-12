@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Meu Bolso</string>
+    <string name="tab_expenses">Gastos</string>
+    <string name="tab_analytics">Análises</string>
+    <string name="tab_calculator">Calculadora</string>
+    <string name="add_expense">Novo gasto</string>
+    <string name="edit_expense">Editar gasto</string>
+    <string name="monthly_total_label">Total gasto no mês</string>
+    <string name="budget_label">Orçamento mensal</string>
+    <string name="budget_define">Definir meta</string>
+    <string name="budget_remaining">Disponível</string>
+    <string name="budget_exceeded">Excedido</string>
+    <string name="daily_average">Média/dia</string>
+    <string name="highest_expense">Maior gasto</string>
+    <string name="expense_count">Lançamentos</string>
+    <string name="search_expenses_hint">Buscar por descrição ou nota…</string>
+    <string name="all_categories">Todas</string>
+    <string name="empty_expenses_title">Nenhum gasto neste mês</string>
+    <string name="empty_expenses_subtitle">Toque no botão + para registrar um gasto ou use a Calculadora para somar suas compras.</string>
+    <string name="empty_search_title">Nenhum resultado encontrado</string>
+    <string name="empty_search_subtitle">Tente ajustar a busca ou limpar o filtro de categoria.</string>
+    <string name="expense_saved">Gasto salvo com sucesso</string>
+    <string name="expense_deleted">Gasto excluído</string>
+    <string name="undo_action">Desfazer</string>
+    <string name="budget_saved">Orçamento atualizado</string>
+    <string name="error_invalid_amount">Informe um valor maior que zero</string>
+    <string name="error_empty_title">Informe uma descrição para o gasto</string>
+    <string name="cd_previous_month">Mês anterior</string>
+    <string name="cd_next_month">Próximo mês</string>
+    <string name="cd_add_expense">Adicionar novo gasto</string>
+    <string name="cd_delete_expense">Excluir gasto</string>
+    <string name="cd_clear_search">Limpar busca</string>
+    <string name="cd_empty_wallet">Ilustração de carteira vazia</string>
+    <string name="cd_toggle_calculator">Alternar calculadora rápida</string>
+</resources>

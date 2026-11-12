@@ -1,0 +1,6 @@
+{
+  "name": "Meu Bolso",
+  "description": "Aplicativo para calcular e acompanhar gastos, orçamentos e categorias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
